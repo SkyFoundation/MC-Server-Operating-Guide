@@ -1,0 +1,9 @@
+GPL
+
+LGPL
+
+APACHE
+
+MIT
+
+BSD
